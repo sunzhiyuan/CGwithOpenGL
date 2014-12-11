@@ -1,0 +1,123 @@
+MKD Chap11Programs
+257 "/Hearn2eIM/Chap11Programs" - Directory successfully created
+CWD Chap11Programs
+250 CWD command successful.
+PWD
+257 "/Hearn2eIM/Chap11Programs" is current directory.
+PASV
+227 Entering Passive Mode (10,160,14,36,254,159).
+connecting to 10.160.14.36:65183
+- -
+connecting to 10.160.14.36:65183
+Connected to 10.160.14.36 port 65183
+LIST
+150 Opening ASCII mode data connection for file list
+Received 0 bytes in 0.1 secs, (0.00 bps), transfer succeeded
+226 Transfer complete.
+sending prog11OGLKeyCurveDraw.doc as prog11OGLKeyCurveDraw.doc (2 of 11)
+TYPE I
+200 Type set to I.
+PASV
+227 Entering Passive Mode (10,160,14,36,254,160).
+connecting to 10.160.14.36:65184
+- -
+connecting to 10.160.14.36:65184
+Connected to 10.160.14.36 port 65184
+STOR prog11OGLKeyCurveDraw.doc
+150 Opening BINARY mode data connection for prog11OGLKeyCurveDraw.doc
+Transmitted 22528 bytes in 0.1 secs, (2.15 Mbps), transfer succeeded
+226 Transfer complete.
+sending prog11OGLMenu.doc as prog11OGLMenu.doc (3 of 11)
+PASV
+227 Entering Passive Mode (10,160,14,36,254,161).
+connecting to 10.160.14.36:65185
+- -
+connecting to 10.160.14.36:65185
+Connected to 10.160.14.36 port 65185
+STOR prog11OGLMenu.doc
+150 Opening BINARY mode data connection for prog11OGLMenu.doc
+Transmitted 23040 bytes in 0.1 secs, (2.20 Mbps), transfer succeeded
+226 Transfer complete.
+sending prog11OGLMouseKeySquares.doc as prog11OGLMouseKeySquares.doc (4 of 11)
+PASV
+227 Entering Passive Mode (10,160,14,36,254,162).
+connecting to 10.160.14.36:65186
+- -
+connecting to 10.160.14.36:65186
+Connected to 10.160.14.36 port 65186
+STOR prog11OGLMouseKeySquares.doc
+150 Opening BINARY mode data connection for prog11OGLMouseKeySquares.doc
+Transmitted 27136 bytes in 0.1 secs, (2.60 Mbps), transfer succeeded
+226 Transfer complete.
+sending prog11OGLMousePlotPt.doc as prog11OGLMousePlotPt.doc (5 of 11)
+PASV
+227 Entering Passive Mode (10,160,14,36,254,163).
+connecting to 10.160.14.36:65187
+- -
+connecting to 10.160.14.36:65187
+Connected to 10.160.14.36 port 65187
+STOR prog11OGLMousePlotPt.doc
+150 Opening BINARY mode data connection for prog11OGLMousePlotPt.doc
+Transmitted 22528 bytes in 0.1 secs, (2.15 Mbps), transfer succeeded
+226 Transfer complete.
+sending prog11OGLMousePolyline.doc as prog11OGLMousePolyline.doc (6 of 11)
+PASV
+227 Entering Passive Mode (10,160,14,36,254,164).
+connecting to 10.160.14.36:65188
+- -
+connecting to 10.160.14.36:65188
+Connected to 10.160.14.36 port 65188
+STOR prog11OGLMousePolyline.doc
+150 Opening BINARY mode data connection for prog11OGLMousePolyline.doc
+Transmitted 23552 bytes in 0.1 secs, (2.25 Mbps), transfer succeeded
+226 Transfer complete.
+sending prog11OGLPickOperations.doc as prog11OGLPickOperations.doc (7 of 11)
+PASV
+227 Entering Passive Mode (10,160,14,36,254,165).
+connecting to 10.160.14.36:65189
+- -
+connecting to 10.160.14.36:65189
+Connected to 10.160.14.36 port 65189
+STOR prog11OGLPickOperations.doc
+150 Opening BINARY mode data connection for prog11OGLPickOperations.doc
+Transmitted 27136 bytes in 0.1 secs, (2.60 Mbps), transfer succeeded
+226 Transfer complete.
+sending prog11OGLSubmenu.doc as prog11OGLSubmenu.doc (8 of 11)
+PASV
+227 Entering Passive Mode (10,160,14,36,254,166).
+connecting to 10.160.14.36:65190
+- -
+connecting to 10.160.14.36:65190
+Connected to 10.160.14.36 port 65190
+STOR prog11OGLSubmenu.doc
+150 Opening BINARY mode data connection for prog11OGLSubmenu.doc
+Transmitted 24064 bytes in 0.1 secs, (2.29 Mbps), transfer succeeded
+226 Transfer complete.
+PWD
+257 "/Hearn2eIM/Chap11Programs" is current directory.
+TYPE A
+200 Type set to A.
+PASV
+227 Entering Passive Mode (10,160,14,36,254,167).
+connecting to 10.160.14.36:65191
+- -
+connecting to 10.160.14.36:65191
+Connected to 10.160.14.36 port 65191
+LIST
+150 Opening ASCII mode data connection for file list
+Received 566 bytes in 0.1 secs, (50.00 Kbps), transfer succeeded
+226 Transfer complete.
+CWD /Hearn2eIM
+250 CWD command successful.
+PWD
+257 "/Hearn2eIM" is current directory.
+PASV
+227 Entering Passive Mode (10,160,14,36,254,168).
+connecting to 10.160.14.36:65192
+- -
+connecting to 10.160.14.36:65192
+Connected to 10.160.14.36 port 65192
+LIST
+150 Opening ASCII mode data connection for file list
+Received 142 bytes in 0.1 secs, (10.00 Kbps), transfer succeeded
+226 Transfer complete.

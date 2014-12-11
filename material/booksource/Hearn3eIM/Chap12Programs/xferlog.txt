@@ -1,0 +1,68 @@
+MKD Chap12Programs
+257 "/Hearn2eIM/Chap12Programs" - Directory successfully created
+CWD Chap12Programs
+250 CWD command successful.
+PWD
+257 "/Hearn2eIM/Chap12Programs" is current directory.
+PASV
+227 Entering Passive Mode (10,160,14,36,254,169).
+connecting to 10.160.14.36:65193
+- -
+connecting to 10.160.14.36:65193
+Connected to 10.160.14.36 port 65193
+LIST
+150 Opening ASCII mode data connection for file list
+Received 0 bytes in 0.1 secs, (0.00 bps), transfer succeeded
+226 Transfer complete.
+sending prog12HSVtoRGB.doc as prog12HSVtoRGB.doc (2 of 6)
+TYPE I
+200 Type set to I.
+PASV
+227 Entering Passive Mode (10,160,14,36,254,170).
+connecting to 10.160.14.36:65194
+- -
+connecting to 10.160.14.36:65194
+Connected to 10.160.14.36 port 65194
+STOR prog12HSVtoRGB.doc
+150 Opening BINARY mode data connection for prog12HSVtoRGB.doc
+Transmitted 20992 bytes in 0.1 secs, (2.00 Mbps), transfer succeeded
+226 Transfer complete.
+sending prog12RGBtoHSV.doc as prog12RGBtoHSV.doc (3 of 6)
+PASV
+227 Entering Passive Mode (10,160,14,36,254,171).
+connecting to 10.160.14.36:65195
+- -
+connecting to 10.160.14.36:65195
+Connected to 10.160.14.36 port 65195
+STOR prog12RGBtoHSV.doc
+150 Opening BINARY mode data connection for prog12RGBtoHSV.doc
+Transmitted 20992 bytes in 0.1 secs, (2.00 Mbps), transfer succeeded
+226 Transfer complete.
+PWD
+257 "/Hearn2eIM/Chap12Programs" is current directory.
+TYPE A
+200 Type set to A.
+PASV
+227 Entering Passive Mode (10,160,14,36,254,172).
+connecting to 10.160.14.36:65196
+- -
+connecting to 10.160.14.36:65196
+Connected to 10.160.14.36 port 65196
+LIST
+150 Opening ASCII mode data connection for file list
+Received 150 bytes in 0.1 secs, (10.00 Kbps), transfer succeeded
+226 Transfer complete.
+CWD /Hearn2eIM
+250 CWD command successful.
+PWD
+257 "/Hearn2eIM" is current directory.
+PASV
+227 Entering Passive Mode (10,160,14,36,254,173).
+connecting to 10.160.14.36:65197
+- -
+connecting to 10.160.14.36:65197
+Connected to 10.160.14.36 port 65197
+LIST
+150 Opening ASCII mode data connection for file list
+Received 213 bytes in 0.1 secs, (20.00 Kbps), transfer succeeded
+226 Transfer complete.

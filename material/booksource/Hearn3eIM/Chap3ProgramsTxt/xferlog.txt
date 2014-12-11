@@ -1,0 +1,156 @@
+MKD Chap3ProgramsTxt
+257 "/Hearn2eIM/Chap3ProgramsTxt" - Directory successfully created
+CWD Chap3ProgramsTxt
+250 CWD command successful.
+PWD
+257 "/Hearn2eIM/Chap3ProgramsTxt" is current directory.
+PASV
+227 Entering Passive Mode (10,160,14,36,254,178).
+connecting to 10.160.14.36:65202
+- -
+connecting to 10.160.14.36:65202
+Connected to 10.160.14.36 port 65202
+LIST
+150 Opening ASCII mode data connection for file list
+Received 0 bytes in 0.1 secs, (0.00 bps), transfer succeeded
+226 Transfer complete.
+sending prog3BarChart.doc as prog3BarChart.doc (2 of 14)
+TYPE I
+200 Type set to I.
+PASV
+227 Entering Passive Mode (10,160,14,36,254,180).
+connecting to 10.160.14.36:65204
+- -
+connecting to 10.160.14.36:65204
+Connected to 10.160.14.36 port 65204
+STOR prog3BarChart.doc
+150 Opening BINARY mode data connection for prog3BarChart.doc
+Transmitted 20480 bytes in 0.1 secs, (1.95 Mbps), transfer succeeded
+226 Transfer complete.
+sending prog3CircleMidpoint.doc as prog3CircleMidpoint.doc (3 of 14)
+PASV
+227 Entering Passive Mode (10,160,14,36,254,181).
+connecting to 10.160.14.36:65205
+- -
+connecting to 10.160.14.36:65205
+Connected to 10.160.14.36 port 65205
+STOR prog3CircleMidpoint.doc
+150 Opening BINARY mode data connection for prog3CircleMidpoint.doc
+Transmitted 22016 bytes in 0.1 secs, (2.10 Mbps), transfer succeeded
+226 Transfer complete.
+sending prog3CircleVariations.doc as prog3CircleVariations.doc (4 of 14)
+PASV
+227 Entering Passive Mode (10,160,14,36,254,182).
+connecting to 10.160.14.36:65206
+- -
+connecting to 10.160.14.36:65206
+Connected to 10.160.14.36 port 65206
+STOR prog3CircleVariations.doc
+150 Opening BINARY mode data connection for prog3CircleVariations.doc
+Transmitted 25600 bytes in 0.1 secs, (2.44 Mbps), transfer succeeded
+226 Transfer complete.
+sending prog3DisplayList.doc as prog3DisplayList.doc (5 of 14)
+PASV
+227 Entering Passive Mode (10,160,14,36,254,183).
+connecting to 10.160.14.36:65207
+- -
+connecting to 10.160.14.36:65207
+Connected to 10.160.14.36 port 65207
+STOR prog3DisplayList.doc
+150 Opening BINARY mode data connection for prog3DisplayList.doc
+Transmitted 20480 bytes in 0.1 secs, (1.95 Mbps), transfer succeeded
+226 Transfer complete.
+sending prog3DispLstReshape.doc as prog3DispLstReshape.doc (6 of 14)
+PASV
+227 Entering Passive Mode (10,160,14,36,254,184).
+connecting to 10.160.14.36:65208
+- -
+connecting to 10.160.14.36:65208
+Connected to 10.160.14.36 port 65208
+STOR prog3DispLstReshape.doc
+150 Opening BINARY mode data connection for prog3DispLstReshape.doc
+Transmitted 23040 bytes in 0.1 secs, (2.20 Mbps), transfer succeeded
+226 Transfer complete.
+sending prog3EllipseMidpoint.doc as prog3EllipseMidpoint.doc (7 of 14)
+PASV
+227 Entering Passive Mode (10,160,14,36,254,185).
+connecting to 10.160.14.36:65209
+- -
+connecting to 10.160.14.36:65209
+Connected to 10.160.14.36 port 65209
+STOR prog3EllipseMidpoint.doc
+150 Opening BINARY mode data connection for prog3EllipseMidpoint.doc
+Transmitted 22528 bytes in 0.1 secs, (2.15 Mbps), transfer succeeded
+226 Transfer complete.
+sending prog3LineBres.doc as prog3LineBres.doc (8 of 14)
+PASV
+227 Entering Passive Mode (10,160,14,36,254,186).
+connecting to 10.160.14.36:65210
+- -
+connecting to 10.160.14.36:65210
+Connected to 10.160.14.36 port 65210
+STOR prog3LineBres.doc
+150 Opening BINARY mode data connection for prog3LineBres.doc
+Transmitted 20992 bytes in 0.1 secs, (2.00 Mbps), transfer succeeded
+226 Transfer complete.
+sending prog3lineDDA.doc as prog3lineDDA.doc (9 of 14)
+PASV
+227 Entering Passive Mode (10,160,14,36,254,187).
+connecting to 10.160.14.36:65211
+- -
+connecting to 10.160.14.36:65211
+Connected to 10.160.14.36 port 65211
+STOR prog3lineDDA.doc
+150 Opening BINARY mode data connection for prog3lineDDA.doc
+Transmitted 20480 bytes in 0.1 secs, (1.95 Mbps), transfer succeeded
+226 Transfer complete.
+sending prog3LineGraph.doc as prog3LineGraph.doc (10 of 14)
+PASV
+227 Entering Passive Mode (10,160,14,36,254,188).
+connecting to 10.160.14.36:65212
+- -
+connecting to 10.160.14.36:65212
+Connected to 10.160.14.36 port 65212
+STOR prog3LineGraph.doc
+150 Opening BINARY mode data connection for prog3LineGraph.doc
+Transmitted 20992 bytes in 0.1 secs, (2.00 Mbps), transfer succeeded
+226 Transfer complete.
+sending prog3PieChart.doc as prog3PieChart.doc (11 of 14)
+PASV
+227 Entering Passive Mode (10,160,14,36,254,189).
+connecting to 10.160.14.36:65213
+- -
+connecting to 10.160.14.36:65213
+Connected to 10.160.14.36 port 65213
+STOR prog3PieChart.doc
+150 Opening BINARY mode data connection for prog3PieChart.doc
+Transmitted 23552 bytes in 0.1 secs, (2.25 Mbps), transfer succeeded
+226 Transfer complete.
+PWD
+257 "/Hearn2eIM/Chap3ProgramsTxt" is current directory.
+TYPE A
+200 Type set to A.
+PASV
+227 Entering Passive Mode (10,160,14,36,254,190).
+connecting to 10.160.14.36:65214
+- -
+connecting to 10.160.14.36:65214
+Connected to 10.160.14.36 port 65214
+LIST
+150 Opening ASCII mode data connection for file list
+Received 770 bytes in 0.1 secs, (70.00 Kbps), transfer succeeded
+226 Transfer complete.
+CWD /Hearn2eIM
+250 CWD command successful.
+PWD
+257 "/Hearn2eIM" is current directory.
+PASV
+227 Entering Passive Mode (10,160,14,36,254,191).
+connecting to 10.160.14.36:65215
+- -
+connecting to 10.160.14.36:65215
+Connected to 10.160.14.36 port 65215
+LIST
+150 Opening ASCII mode data connection for file list
+Received 357 bytes in 0.1 secs, (30.00 Kbps), transfer succeeded
+226 Transfer complete.

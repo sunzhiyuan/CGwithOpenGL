@@ -1,0 +1,156 @@
+MKD Hearn2eIM
+257 "/Hearn2eIM" - Directory successfully created
+CWD Hearn2eIM
+250 CWD command successful.
+PWD
+257 "/Hearn2eIM" is current directory.
+PASV
+227 Entering Passive Mode (10,160,14,36,254,153).
+connecting to 10.160.14.36:65177
+- -
+connecting to 10.160.14.36:65177
+Connected to 10.160.14.36 port 65177
+LIST
+150 Opening ASCII mode data connection for file list
+Received 0 bytes in 0.1 secs, (0.00 bps), transfer succeeded
+226 Transfer complete.
+sending Exercises1-4.pdf as Exercises1-4.pdf (13 of 24)
+TYPE I
+200 Type set to I.
+PASV
+227 Entering Passive Mode (10,160,14,36,254,245).
+connecting to 10.160.14.36:65269
+- -
+connecting to 10.160.14.36:65269
+Connected to 10.160.14.36 port 65269
+STOR Exercises1-4.pdf
+150 Opening BINARY mode data connection for Exercises1-4.pdf
+Transmitted 131186 bytes in 0.2 secs, (7.85 Mbps), transfer succeeded
+226 Transfer complete.
+sending Exercises10.pdf as Exercises10.pdf (14 of 24)
+PASV
+227 Entering Passive Mode (10,160,14,36,254,246).
+connecting to 10.160.14.36:65270
+- -
+connecting to 10.160.14.36:65270
+Connected to 10.160.14.36 port 65270
+STOR Exercises10.pdf
+150 Opening BINARY mode data connection for Exercises10.pdf
+Transmitted 59610 bytes in 0.1 secs, (5.70 Mbps), transfer succeeded
+226 Transfer complete.
+sending Exercises11.pdf as Exercises11.pdf (15 of 24)
+PASV
+227 Entering Passive Mode (10,160,14,36,254,247).
+connecting to 10.160.14.36:65271
+- -
+connecting to 10.160.14.36:65271
+Connected to 10.160.14.36 port 65271
+STOR Exercises11.pdf
+150 Opening BINARY mode data connection for Exercises11.pdf
+Transmitted 70121 bytes in 0.1 secs, (6.71 Mbps), transfer succeeded
+226 Transfer complete.
+sending Exercises5.pdf as Exercises5.pdf (16 of 24)
+PASV
+227 Entering Passive Mode (10,160,14,36,254,248).
+connecting to 10.160.14.36:65272
+- -
+connecting to 10.160.14.36:65272
+Connected to 10.160.14.36 port 65272
+STOR Exercises5.pdf
+150 Opening BINARY mode data connection for Exercises5.pdf
+Transmitted 75603 bytes in 0.1 secs, (7.24 Mbps), transfer succeeded
+226 Transfer complete.
+sending Exercises6.pdf as Exercises6.pdf (17 of 24)
+PASV
+227 Entering Passive Mode (10,160,14,36,254,249).
+connecting to 10.160.14.36:65273
+- -
+connecting to 10.160.14.36:65273
+Connected to 10.160.14.36 port 65273
+STOR Exercises6.pdf
+150 Opening BINARY mode data connection for Exercises6.pdf
+Transmitted 38772 bytes in 0.1 secs, (3.71 Mbps), transfer succeeded
+226 Transfer complete.
+sending Exercises7.pdf as Exercises7.pdf (18 of 24)
+PASV
+227 Entering Passive Mode (10,160,14,36,254,250).
+connecting to 10.160.14.36:65274
+- -
+connecting to 10.160.14.36:65274
+Connected to 10.160.14.36 port 65274
+STOR Exercises7.pdf
+150 Opening BINARY mode data connection for Exercises7.pdf
+Transmitted 60554 bytes in 0.1 secs, (5.79 Mbps), transfer succeeded
+226 Transfer complete.
+sending Exercises8.pdf as Exercises8.pdf (19 of 24)
+PASV
+227 Entering Passive Mode (10,160,14,36,254,251).
+connecting to 10.160.14.36:65275
+- -
+connecting to 10.160.14.36:65275
+Connected to 10.160.14.36 port 65275
+STOR Exercises8.pdf
+150 Opening BINARY mode data connection for Exercises8.pdf
+Transmitted 99644 bytes in 0.1 secs, (8.59 Mbps), transfer succeeded
+226 Transfer complete.
+sending Exercises9.pdf as Exercises9.pdf (20 of 24)
+PASV
+227 Entering Passive Mode (10,160,14,36,254,252).
+connecting to 10.160.14.36:65276
+- -
+connecting to 10.160.14.36:65276
+Connected to 10.160.14.36 port 65276
+STOR Exercises9.pdf
+150 Opening BINARY mode data connection for Exercises9.pdf
+Transmitted 49181 bytes in 0.1 secs, (4.71 Mbps), transfer succeeded
+226 Transfer complete.
+sending prog2OGLexample.txt as prog2OGLexample.txt (21 of 24)
+PASV
+227 Entering Passive Mode (10,160,14,36,254,253).
+connecting to 10.160.14.36:65277
+- -
+connecting to 10.160.14.36:65277
+Connected to 10.160.14.36 port 65277
+STOR prog2OGLexample.txt
+150 Opening BINARY mode data connection for prog2OGLexample.txt
+Transmitted 1349 bytes in 0.1 secs, (130.00 Kbps), transfer succeeded
+226 Transfer complete.
+sending xferlog.txt as xferlog.txt (22 of 24)
+PASV
+227 Entering Passive Mode (10,160,14,36,254,254).
+connecting to 10.160.14.36:65278
+- -
+connecting to 10.160.14.36:65278
+Connected to 10.160.14.36 port 65278
+STOR xferlog.txt
+150 Opening BINARY mode data connection for xferlog.txt
+Transmitted 4389 bytes in 0.1 secs, (420.00 Kbps), transfer succeeded
+226 Transfer complete.
+PWD
+257 "/Hearn2eIM" is current directory.
+TYPE A
+200 Type set to A.
+PASV
+227 Entering Passive Mode (10,160,14,36,254,255).
+connecting to 10.160.14.36:65279
+- -
+connecting to 10.160.14.36:65279
+Connected to 10.160.14.36 port 65279
+LIST
+150 Opening ASCII mode data connection for file list
+Received 1496 bytes in 0.1 secs, (140.00 Kbps), transfer succeeded
+226 Transfer complete.
+CWD /
+250 CWD command successful.
+PWD
+257 "/" is current directory.
+PASV
+227 Entering Passive Mode (10,160,14,36,255,0).
+connecting to 10.160.14.36:65280
+- -
+connecting to 10.160.14.36:65280
+Connected to 10.160.14.36 port 65280
+LIST
+150 Opening ASCII mode data connection for file list
+Received 658 bytes in 0.1 secs, (60.00 Kbps), transfer succeeded
+226 Transfer complete.

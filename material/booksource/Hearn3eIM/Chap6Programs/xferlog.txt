@@ -1,0 +1,90 @@
+MKD Chap6Programs
+257 "/Hearn2eIM/Chap6Programs" - Directory successfully created
+CWD Chap6Programs
+250 CWD command successful.
+PWD
+257 "/Hearn2eIM/Chap6Programs" is current directory.
+PASV
+227 Entering Passive Mode (10,160,14,36,254,216).
+connecting to 10.160.14.36:65240
+- -
+connecting to 10.160.14.36:65240
+Connected to 10.160.14.36 port 65240
+LIST
+150 Opening ASCII mode data connection for file list
+Received 0 bytes in 0.1 secs, (0.00 bps), transfer succeeded
+226 Transfer complete.
+sending prog6CohenSuthLineClip2D.doc as prog6CohenSuthLineClip2D.doc (2 of 8)
+TYPE I
+200 Type set to I.
+PASV
+227 Entering Passive Mode (10,160,14,36,254,217).
+connecting to 10.160.14.36:65241
+- -
+connecting to 10.160.14.36:65241
+Connected to 10.160.14.36 port 65241
+STOR prog6CohenSuthLineClip2D.doc
+150 Opening BINARY mode data connection for prog6CohenSuthLineClip2D.doc
+Transmitted 24576 bytes in 0.1 secs, (2.34 Mbps), transfer succeeded
+226 Transfer complete.
+sending prog6LiangBarskLineClip2D.doc as prog6LiangBarskLineClip2D.doc (3 of 8)
+PASV
+227 Entering Passive Mode (10,160,14,36,254,218).
+connecting to 10.160.14.36:65242
+- -
+connecting to 10.160.14.36:65242
+Connected to 10.160.14.36 port 65242
+STOR prog6LiangBarskLineClip2D.doc
+150 Opening BINARY mode data connection for prog6LiangBarskLineClip2D.doc
+Transmitted 22528 bytes in 0.1 secs, (2.15 Mbps), transfer succeeded
+226 Transfer complete.
+sending prog6OGLViewingProg2D.doc as prog6OGLViewingProg2D.doc (4 of 8)
+PASV
+227 Entering Passive Mode (10,160,14,36,254,219).
+connecting to 10.160.14.36:65243
+- -
+connecting to 10.160.14.36:65243
+Connected to 10.160.14.36 port 65243
+STOR prog6OGLViewingProg2D.doc
+150 Opening BINARY mode data connection for prog6OGLViewingProg2D.doc
+Transmitted 22528 bytes in 0.1 secs, (2.15 Mbps), transfer succeeded
+226 Transfer complete.
+sending prog6SuthHodgPolygonClip2D.doc as prog6SuthHodgPolygonClip2D.doc (5 of 8)
+PASV
+227 Entering Passive Mode (10,160,14,36,254,220).
+connecting to 10.160.14.36:65244
+- -
+connecting to 10.160.14.36:65244
+Connected to 10.160.14.36 port 65244
+STOR prog6SuthHodgPolygonClip2D.doc
+150 Opening BINARY mode data connection for prog6SuthHodgPolygonClip2D.doc
+Transmitted 22528 bytes in 0.1 secs, (2.15 Mbps), transfer succeeded
+226 Transfer complete.
+PWD
+257 "/Hearn2eIM/Chap6Programs" is current directory.
+TYPE A
+200 Type set to A.
+PASV
+227 Entering Passive Mode (10,160,14,36,254,221).
+connecting to 10.160.14.36:65245
+- -
+connecting to 10.160.14.36:65245
+Connected to 10.160.14.36 port 65245
+LIST
+150 Opening ASCII mode data connection for file list
+Received 340 bytes in 0.1 secs, (30.00 Kbps), transfer succeeded
+226 Transfer complete.
+CWD /Hearn2eIM
+250 CWD command successful.
+PWD
+257 "/Hearn2eIM" is current directory.
+PASV
+227 Entering Passive Mode (10,160,14,36,254,222).
+connecting to 10.160.14.36:65246
+- -
+connecting to 10.160.14.36:65246
+Connected to 10.160.14.36 port 65246
+LIST
+150 Opening ASCII mode data connection for file list
+Received 570 bytes in 0.1 secs, (50.00 Kbps), transfer succeeded
+226 Transfer complete.

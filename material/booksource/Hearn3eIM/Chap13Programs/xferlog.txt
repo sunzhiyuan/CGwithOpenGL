@@ -1,0 +1,57 @@
+MKD Chap13Programs
+257 "/Hearn2eIM/Chap13Programs" - Directory successfully created
+CWD Chap13Programs
+250 CWD command successful.
+PWD
+257 "/Hearn2eIM/Chap13Programs" is current directory.
+PASV
+227 Entering Passive Mode (10,160,14,36,254,174).
+connecting to 10.160.14.36:65198
+- -
+connecting to 10.160.14.36:65198
+Connected to 10.160.14.36 port 65198
+LIST
+150 Opening ASCII mode data connection for file list
+Received 0 bytes in 0.1 secs, (0.00 bps), transfer succeeded
+226 Transfer complete.
+sending prog13OGLAnimation.doc as prog13OGLAnimation.doc (2 of 5)
+TYPE I
+200 Type set to I.
+PASV
+227 Entering Passive Mode (10,160,14,36,254,175).
+connecting to 10.160.14.36:65199
+- -
+connecting to 10.160.14.36:65199
+Connected to 10.160.14.36 port 65199
+STOR prog13OGLAnimation.doc
+150 Opening BINARY mode data connection for prog13OGLAnimation.doc
+Transmitted 23552 bytes in 0.1 secs, (2.25 Mbps), transfer succeeded
+226 Transfer complete.
+PWD
+257 "/Hearn2eIM/Chap13Programs" is current directory.
+TYPE A
+200 Type set to A.
+PASV
+227 Entering Passive Mode (10,160,14,36,254,176).
+connecting to 10.160.14.36:65200
+- -
+connecting to 10.160.14.36:65200
+Connected to 10.160.14.36 port 65200
+LIST
+150 Opening ASCII mode data connection for file list
+Received 79 bytes in 0.1 secs, (7900.00 bps), transfer succeeded
+226 Transfer complete.
+CWD /Hearn2eIM
+250 CWD command successful.
+PWD
+257 "/Hearn2eIM" is current directory.
+PASV
+227 Entering Passive Mode (10,160,14,36,254,177).
+connecting to 10.160.14.36:65201
+- -
+connecting to 10.160.14.36:65201
+Connected to 10.160.14.36 port 65201
+LIST
+150 Opening ASCII mode data connection for file list
+Received 284 bytes in 0.1 secs, (20.00 Kbps), transfer succeeded
+226 Transfer complete.

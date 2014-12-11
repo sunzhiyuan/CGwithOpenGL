@@ -1,0 +1,70 @@
+MKD Chap10Programs
+257 "/Hearn2eIM/Chap10Programs" - Directory successfully created
+CWD Chap10Programs
+250 CWD command successful.
+PWD
+257 "/Hearn2eIM/Chap10Programs" is current directory.
+PASV
+227 Entering Passive Mode (10,160,14,36,254,154).
+connecting to 10.160.14.36:65178
+- -
+connecting to 10.160.14.36:65178
+Connected to 10.160.14.36 port 65178
+LIST
+150 Opening ASCII mode data connection for file list
+Received 0 bytes in 0.1 secs, (0.00 bps), transfer succeeded
+226 Transfer complete.
+sending prog10OGLLineTexture.doc as prog10OGLLineTexture.doc (2 of 6)
+TYPE I
+200 Type set to I.
+PASV
+227 Entering Passive Mode (10,160,14,36,254,155).
+connecting to 10.160.14.36:65179
+- -
+connecting to 10.160.14.36:65179
+Connected to 10.160.14.36 port 65179
+STOR prog10OGLLineTexture.doc
+150 Opening BINARY mode data connection for prog10OGLLineTexture.doc
+Transmitted 21504 bytes in 0.1 secs, (2.05 Mbps), transfer succeeded
+226 Transfer complete.
+MDTM 20030928172500 prog10OGLLineTexture.doc
+550 20030928172500: No such file or directory
+sending prog10OGLSurfaceTexture.doc as prog10OGLSurfaceTexture.doc (3 of 6)
+PASV
+227 Entering Passive Mode (10,160,14,36,254,156).
+connecting to 10.160.14.36:65180
+- -
+connecting to 10.160.14.36:65180
+Connected to 10.160.14.36 port 65180
+STOR prog10OGLSurfaceTexture.doc
+150 Opening BINARY mode data connection for prog10OGLSurfaceTexture.doc
+Transmitted 20480 bytes in 0.1 secs, (1.95 Mbps), transfer succeeded
+226 Transfer complete.
+PWD
+257 "/Hearn2eIM/Chap10Programs" is current directory.
+TYPE A
+200 Type set to A.
+PASV
+227 Entering Passive Mode (10,160,14,36,254,157).
+connecting to 10.160.14.36:65181
+- -
+connecting to 10.160.14.36:65181
+Connected to 10.160.14.36 port 65181
+LIST
+150 Opening ASCII mode data connection for file list
+Received 165 bytes in 0.1 secs, (10.00 Kbps), transfer succeeded
+226 Transfer complete.
+CWD /Hearn2eIM
+250 CWD command successful.
+PWD
+257 "/Hearn2eIM" is current directory.
+PASV
+227 Entering Passive Mode (10,160,14,36,254,158).
+connecting to 10.160.14.36:65182
+- -
+connecting to 10.160.14.36:65182
+Connected to 10.160.14.36 port 65182
+LIST
+150 Opening ASCII mode data connection for file list
+Received 71 bytes in 0.1 secs, (7100.00 bps), transfer succeeded
+226 Transfer complete.

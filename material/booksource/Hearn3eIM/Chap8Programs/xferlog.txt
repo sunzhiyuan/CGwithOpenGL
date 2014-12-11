@@ -1,0 +1,134 @@
+MKD Chap8Programs
+257 "/Hearn2eIM/Chap8Programs" - Directory successfully created
+CWD Chap8Programs
+250 CWD command successful.
+PWD
+257 "/Hearn2eIM/Chap8Programs" is current directory.
+PASV
+227 Entering Passive Mode (10,160,14,36,254,228).
+connecting to 10.160.14.36:65252
+- -
+connecting to 10.160.14.36:65252
+Connected to 10.160.14.36 port 65252
+LIST
+150 Opening ASCII mode data connection for file list
+Received 0 bytes in 0.1 secs, (0.00 bps), transfer succeeded
+226 Transfer complete.
+sending prog8BezierCurve.doc as prog8BezierCurve.doc (2 of 12)
+TYPE I
+200 Type set to I.
+PASV
+227 Entering Passive Mode (10,160,14,36,254,229).
+connecting to 10.160.14.36:65253
+- -
+connecting to 10.160.14.36:65253
+Connected to 10.160.14.36 port 65253
+STOR prog8BezierCurve.doc
+150 Opening BINARY mode data connection for prog8BezierCurve.doc
+Transmitted 25088 bytes in 0.1 secs, (2.39 Mbps), transfer succeeded
+226 Transfer complete.
+sending prog8MandelbrotSet.doc as prog8MandelbrotSet.doc (3 of 12)
+PASV
+227 Entering Passive Mode (10,160,14,36,254,230).
+connecting to 10.160.14.36:65254
+- -
+connecting to 10.160.14.36:65254
+Connected to 10.160.14.36 port 65254
+STOR prog8MandelbrotSet.doc
+150 Opening BINARY mode data connection for prog8MandelbrotSet.doc
+Transmitted 27136 bytes in 0.1 secs, (2.60 Mbps), transfer succeeded
+226 Transfer complete.
+sending prog8OGLBezierCurve.doc as prog8OGLBezierCurve.doc (4 of 12)
+PASV
+227 Entering Passive Mode (10,160,14,36,254,231).
+connecting to 10.160.14.36:65255
+- -
+connecting to 10.160.14.36:65255
+Connected to 10.160.14.36 port 65255
+STOR prog8OGLBezierCurve.doc
+150 Opening BINARY mode data connection for prog8OGLBezierCurve.doc
+Transmitted 20480 bytes in 0.1 secs, (1.95 Mbps), transfer succeeded
+226 Transfer complete.
+sending prog8OGLBezierSurf.doc as prog8OGLBezierSurf.doc (5 of 12)
+PASV
+227 Entering Passive Mode (10,160,14,36,254,232).
+connecting to 10.160.14.36:65256
+- -
+connecting to 10.160.14.36:65256
+Connected to 10.160.14.36 port 65256
+STOR prog8OGLBezierSurf.doc
+150 Opening BINARY mode data connection for prog8OGLBezierSurf.doc
+Transmitted 20992 bytes in 0.1 secs, (2.00 Mbps), transfer succeeded
+226 Transfer complete.
+sending prog8OGLGLUTPolyhedra.doc as prog8OGLGLUTPolyhedra.doc (6 of 12)
+PASV
+227 Entering Passive Mode (10,160,14,36,254,233).
+connecting to 10.160.14.36:65257
+- -
+connecting to 10.160.14.36:65257
+Connected to 10.160.14.36 port 65257
+STOR prog8OGLGLUTPolyhedra.doc
+150 Opening BINARY mode data connection for prog8OGLGLUTPolyhedra.doc
+Transmitted 22528 bytes in 0.1 secs, (2.15 Mbps), transfer succeeded
+226 Transfer complete.
+sending prog8OGLQuadricSurfs.doc as prog8OGLQuadricSurfs.doc (7 of 12)
+PASV
+227 Entering Passive Mode (10,160,14,36,254,234).
+connecting to 10.160.14.36:65258
+- -
+connecting to 10.160.14.36:65258
+Connected to 10.160.14.36 port 65258
+STOR prog8OGLQuadricSurfs.doc
+150 Opening BINARY mode data connection for prog8OGLQuadricSurfs.doc
+Transmitted 22528 bytes in 0.1 secs, (2.15 Mbps), transfer succeeded
+226 Transfer complete.
+sending prog8OGLTrimmingFcns.doc as prog8OGLTrimmingFcns.doc (8 of 12)
+PASV
+227 Entering Passive Mode (10,160,14,36,254,235).
+connecting to 10.160.14.36:65259
+- -
+connecting to 10.160.14.36:65259
+Connected to 10.160.14.36 port 65259
+STOR prog8OGLTrimmingFcns.doc
+150 Opening BINARY mode data connection for prog8OGLTrimmingFcns.doc
+Transmitted 21504 bytes in 0.1 secs, (2.05 Mbps), transfer succeeded
+226 Transfer complete.
+sending prog8SelfSquareFractal.doc as prog8SelfSquareFractal.doc (9 of 12)
+PASV
+227 Entering Passive Mode (10,160,14,36,254,236).
+connecting to 10.160.14.36:65260
+- -
+connecting to 10.160.14.36:65260
+Connected to 10.160.14.36 port 65260
+STOR prog8SelfSquareFractal.doc
+150 Opening BINARY mode data connection for prog8SelfSquareFractal.doc
+Transmitted 25600 bytes in 0.1 secs, (2.44 Mbps), transfer succeeded
+226 Transfer complete.
+PWD
+257 "/Hearn2eIM/Chap8Programs" is current directory.
+TYPE A
+200 Type set to A.
+PASV
+227 Entering Passive Mode (10,160,14,36,254,237).
+connecting to 10.160.14.36:65261
+- -
+connecting to 10.160.14.36:65261
+Connected to 10.160.14.36 port 65261
+LIST
+150 Opening ASCII mode data connection for file list
+Received 642 bytes in 0.1 secs, (60.00 Kbps), transfer succeeded
+226 Transfer complete.
+CWD /Hearn2eIM
+250 CWD command successful.
+PWD
+257 "/Hearn2eIM" is current directory.
+PASV
+227 Entering Passive Mode (10,160,14,36,254,239).
+connecting to 10.160.14.36:65263
+- -
+connecting to 10.160.14.36:65263
+Connected to 10.160.14.36 port 65263
+LIST
+150 Opening ASCII mode data connection for file list
+Received 710 bytes in 0.1 secs, (60.00 Kbps), transfer succeeded
+226 Transfer complete.

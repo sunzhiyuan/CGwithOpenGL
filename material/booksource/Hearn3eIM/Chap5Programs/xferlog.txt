@@ -1,0 +1,167 @@
+MKD Chap5Programs
+257 "/Hearn2eIM/Chap5Programs" - Directory successfully created
+CWD Chap5Programs
+250 CWD command successful.
+PWD
+257 "/Hearn2eIM/Chap5Programs" is current directory.
+PASV
+227 Entering Passive Mode (10,160,14,36,254,200).
+connecting to 10.160.14.36:65224
+- -
+connecting to 10.160.14.36:65224
+Connected to 10.160.14.36 port 65224
+LIST
+150 Opening ASCII mode data connection for file list
+Received 0 bytes in 0.1 secs, (0.00 bps), transfer succeeded
+226 Transfer complete.
+sending prog5CompositeTransformation2D.doc as prog5CompositeTransformation2D.doc (2 of 15)
+TYPE I
+200 Type set to I.
+PASV
+227 Entering Passive Mode (10,160,14,36,254,201).
+connecting to 10.160.14.36:65225
+- -
+connecting to 10.160.14.36:65225
+Connected to 10.160.14.36 port 65225
+STOR prog5CompositeTransformation2D.doc
+150 Opening BINARY mode data connection for prog5CompositeTransformation2D.doc
+Transmitted 36352 bytes in 0.1 secs, (3.48 Mbps), transfer succeeded
+226 Transfer complete.
+sending prog5CompositeTransformation3D.doc as prog5CompositeTransformation3D.doc (3 of 15)
+PASV
+227 Entering Passive Mode (10,160,14,36,254,202).
+connecting to 10.160.14.36:65226
+- -
+connecting to 10.160.14.36:65226
+Connected to 10.160.14.36 port 65226
+STOR prog5CompositeTransformation3D.doc
+150 Opening BINARY mode data connection for prog5CompositeTransformation3D.doc
+Transmitted 26624 bytes in 0.1 secs, (2.55 Mbps), transfer succeeded
+226 Transfer complete.
+sending prog5OGLCompositeTransformation3D.doc as prog5OGLCompositeTransformation3D.doc (4 of 15)
+PASV
+227 Entering Passive Mode (10,160,14,36,254,203).
+connecting to 10.160.14.36:65227
+- -
+connecting to 10.160.14.36:65227
+Connected to 10.160.14.36 port 65227
+STOR prog5OGLCompositeTransformation3D.doc
+150 Opening BINARY mode data connection for prog5OGLCompositeTransformation3D.doc
+Transmitted 22528 bytes in 0.1 secs, (2.15 Mbps), transfer succeeded
+226 Transfer complete.
+sending prog5OGLStackProcRectTransfs.doc as prog5OGLStackProcRectTransfs.doc (5 of 15)
+PASV
+227 Entering Passive Mode (10,160,14,36,254,205).
+connecting to 10.160.14.36:65229
+- -
+connecting to 10.160.14.36:65229
+Connected to 10.160.14.36 port 65229
+STOR prog5OGLStackProcRectTransfs.doc
+150 Opening BINARY mode data connection for prog5OGLStackProcRectTransfs.doc
+Transmitted 20480 bytes in 0.1 secs, (1.95 Mbps), transfer succeeded
+226 Transfer complete.
+sending prog5RotateRoutine2D.doc as prog5RotateRoutine2D.doc (6 of 15)
+PASV
+227 Entering Passive Mode (10,160,14,36,254,206).
+connecting to 10.160.14.36:65230
+- -
+connecting to 10.160.14.36:65230
+Connected to 10.160.14.36 port 65230
+STOR prog5RotateRoutine2D.doc
+150 Opening BINARY mode data connection for prog5RotateRoutine2D.doc
+Transmitted 20480 bytes in 0.1 secs, (1.95 Mbps), transfer succeeded
+226 Transfer complete.
+sending prog5RotateRoutines3D.doc as prog5RotateRoutines3D.doc (7 of 15)
+PASV
+227 Entering Passive Mode (10,160,14,36,254,207).
+connecting to 10.160.14.36:65231
+- -
+connecting to 10.160.14.36:65231
+Connected to 10.160.14.36 port 65231
+STOR prog5RotateRoutines3D.doc
+150 Opening BINARY mode data connection for prog5RotateRoutines3D.doc
+Transmitted 24576 bytes in 0.1 secs, (2.34 Mbps), transfer succeeded
+226 Transfer complete.
+sending prog5ScaleRoutine2D.doc as prog5ScaleRoutine2D.doc (8 of 15)
+PASV
+227 Entering Passive Mode (10,160,14,36,254,208).
+connecting to 10.160.14.36:65232
+- -
+connecting to 10.160.14.36:65232
+Connected to 10.160.14.36 port 65232
+STOR prog5ScaleRoutine2D.doc
+150 Opening BINARY mode data connection for prog5ScaleRoutine2D.doc
+Transmitted 20480 bytes in 0.1 secs, (1.95 Mbps), transfer succeeded
+226 Transfer complete.
+sending prog5ScaleRoutine3D.doc as prog5ScaleRoutine3D.doc (9 of 15)
+PASV
+227 Entering Passive Mode (10,160,14,36,254,209).
+connecting to 10.160.14.36:65233
+- -
+connecting to 10.160.14.36:65233
+Connected to 10.160.14.36 port 65233
+STOR prog5ScaleRoutine3D.doc
+150 Opening BINARY mode data connection for prog5ScaleRoutine3D.doc
+Transmitted 21504 bytes in 0.1 secs, (2.05 Mbps), transfer succeeded
+226 Transfer complete.
+sending prog5TranslateRoutine2D.doc as prog5TranslateRoutine2D.doc (10 of 15)
+PASV
+227 Entering Passive Mode (10,160,14,36,254,210).
+connecting to 10.160.14.36:65234
+- -
+connecting to 10.160.14.36:65234
+Connected to 10.160.14.36 port 65234
+STOR prog5TranslateRoutine2D.doc
+150 Opening BINARY mode data connection for prog5TranslateRoutine2D.doc
+Transmitted 19968 bytes in 0.1 secs, (1.90 Mbps), transfer succeeded
+226 Transfer complete.
+sending prog5TranslateRoutine3D.doc as prog5TranslateRoutine3D.doc (11 of 15)
+PASV
+227 Entering Passive Mode (10,160,14,36,254,211).
+connecting to 10.160.14.36:65235
+- -
+connecting to 10.160.14.36:65235
+Connected to 10.160.14.36 port 65235
+STOR prog5TranslateRoutine3D.doc
+150 Opening BINARY mode data connection for prog5TranslateRoutine3D.doc
+Transmitted 20480 bytes in 0.1 secs, (1.95 Mbps), transfer succeeded
+226 Transfer complete.
+sending progOGLRectangleTransformations.doc as progOGLRectangleTransformations.doc (12 of 15)
+PASV
+227 Entering Passive Mode (10,160,14,36,254,212).
+connecting to 10.160.14.36:65236
+- -
+connecting to 10.160.14.36:65236
+Connected to 10.160.14.36 port 65236
+STOR progOGLRectangleTransformations.doc
+150 Opening BINARY mode data connection for progOGLRectangleTransformations.doc
+Transmitted 20480 bytes in 0.1 secs, (1.95 Mbps), transfer succeeded
+226 Transfer complete.
+PWD
+257 "/Hearn2eIM/Chap5Programs" is current directory.
+TYPE A
+200 Type set to A.
+PASV
+227 Entering Passive Mode (10,160,14,36,254,213).
+connecting to 10.160.14.36:65237
+- -
+connecting to 10.160.14.36:65237
+Connected to 10.160.14.36 port 65237
+LIST
+150 Opening ASCII mode data connection for file list
+Received 948 bytes in 0.1 secs, (90.00 Kbps), transfer succeeded
+226 Transfer complete.
+CWD /Hearn2eIM
+250 CWD command successful.
+PWD
+257 "/Hearn2eIM" is current directory.
+PASV
+227 Entering Passive Mode (10,160,14,36,254,215).
+connecting to 10.160.14.36:65239
+- -
+connecting to 10.160.14.36:65239
+Connected to 10.160.14.36 port 65239
+LIST
+150 Opening ASCII mode data connection for file list
+Received 500 bytes in 0.1 secs, (40.00 Kbps), transfer succeeded
+226 Transfer complete.
